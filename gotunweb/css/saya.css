@@ -1,0 +1,47 @@
+hr {
+  width: 250px;
+  border: 3px solid rgb(118, 117, 121);
+}
+
+.jumbotron img{
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  border: 3px solid rgb(79, 75, 71);
+}
+
+
+.jumbotron {
+  background: rgb(182, 182, 182);
+  margin-top: 15px;
+}
+
+div .alamat{
+  margin-bottom: 30px;
+}
+
+footer {
+ clear: both;
+ border-top: 2px solid rgb(75, 75, 75);
+ background: rgb(32, 34, 33);
+ color: white;
+ width:  100%;
+ bottom: 0;
+ height: 40px;
+ position: static;
+ margin-top: 40px;
+ font-family: Tahoma, sans-serif;
+}
+
+footer h6{
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+div .container{
+  margin-bottom: 20px;
+}
+
+#bread{
+  color: black;
+}
